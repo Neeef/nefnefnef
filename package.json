@@ -2,7 +2,7 @@
   "name": "aello-hoster",
   "dependencies": {
     "express": "*",
-    "nodejs": "*".
+    "nodejs": "*",
     "http": "*"
   },
    "engines": {
