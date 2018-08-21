@@ -1,5 +1,5 @@
 {
-  name: "aello-hoster",
+  "name": "aello-hoster",
   "dependencies": {
     "express": "*",
     "nodejs": "*".
