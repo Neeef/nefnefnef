@@ -1,0 +1,11 @@
+{
+  name: "aello-hoster",
+  "dependencies": {
+    "express": "*",
+    "nodejs": "*".
+    "http": "*"
+  },
+   "engines": {
+    "node": "8.4.0"
+  }
+}
